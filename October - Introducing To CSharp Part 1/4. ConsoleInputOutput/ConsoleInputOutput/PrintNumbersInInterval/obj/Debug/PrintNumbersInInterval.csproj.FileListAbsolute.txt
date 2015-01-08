@@ -1,0 +1,1 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\PrintNumbersInInterval\bin\Debug\PrintNumbersInInterval.exe.config

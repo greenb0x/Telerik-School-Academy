@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\Encryption\bin\Debug\Encryption.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\Encryption\bin\Debug\Encryption.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\Encryption\bin\Debug\Encryption.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\Encryption\obj\Debug\Encryption.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\Encryption\obj\Debug\Encryption.pdb

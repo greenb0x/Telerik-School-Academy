@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\PositiveIntIsPrime\bin\Debug\PositiveIntIsPrime.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\PositiveIntIsPrime\bin\Debug\PositiveIntIsPrime.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\PositiveIntIsPrime\bin\Debug\PositiveIntIsPrime.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\PositiveIntIsPrime\obj\Debug\PositiveIntIsPrime.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\PositiveIntIsPrime\obj\Debug\PositiveIntIsPrime.pdb

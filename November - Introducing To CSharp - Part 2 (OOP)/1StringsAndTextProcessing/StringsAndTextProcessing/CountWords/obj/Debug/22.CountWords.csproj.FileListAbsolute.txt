@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\CountWords\bin\Debug\CountWords.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\CountWords\bin\Debug\CountWords.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\CountWords\bin\Debug\CountWords.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\CountWords\obj\Debug\CountWords.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\CountWords\obj\Debug\CountWords.pdb

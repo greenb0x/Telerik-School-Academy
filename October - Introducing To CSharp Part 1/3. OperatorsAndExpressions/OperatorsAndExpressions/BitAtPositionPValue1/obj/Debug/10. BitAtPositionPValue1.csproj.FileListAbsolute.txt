@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\BitAtPositionPValue1\bin\Debug\BitAtPositionPValue1.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\BitAtPositionPValue1\bin\Debug\BitAtPositionPValue1.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\BitAtPositionPValue1\bin\Debug\BitAtPositionPValue1.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\BitAtPositionPValue1\obj\Debug\10. BitAtPositionPValue1.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\BitAtPositionPValue1\obj\Debug\BitAtPositionPValue1.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\BitAtPositionPValue1\obj\Debug\BitAtPositionPValue1.pdb

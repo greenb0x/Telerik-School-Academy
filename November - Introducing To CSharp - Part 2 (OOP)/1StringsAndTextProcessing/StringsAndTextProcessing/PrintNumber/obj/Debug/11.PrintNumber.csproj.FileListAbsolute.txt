@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\PrintNumber\bin\Debug\PrintNumber.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\PrintNumber\bin\Debug\PrintNumber.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\PrintNumber\bin\Debug\PrintNumber.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\PrintNumber\obj\Debug\11.PrintNumber.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\PrintNumber\obj\Debug\PrintNumber.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\PrintNumber\obj\Debug\PrintNumber.pdb

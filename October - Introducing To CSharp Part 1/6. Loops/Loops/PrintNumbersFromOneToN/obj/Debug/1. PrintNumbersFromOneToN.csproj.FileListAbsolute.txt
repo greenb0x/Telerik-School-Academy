@@ -1,0 +1,3 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\PrintNumbersFromOneToN\bin\Debug\PrintNumbersFromOneToN.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\PrintNumbersFromOneToN\obj\Debug\PrintNumbersFromOneToN.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\PrintNumbersFromOneToN\obj\Debug\PrintNumbersFromOneToN.pdb

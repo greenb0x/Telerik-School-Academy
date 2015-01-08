@@ -1,0 +1,5 @@
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\IsFemaleVariable\bin\Debug\IsFemaleVariable.exe.config
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\IsFemaleVariable\bin\Debug\IsFemaleVariable.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\IsFemaleVariable\bin\Debug\IsFemaleVariable.pdb
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\IsFemaleVariable\obj\Debug\IsFemaleVariable.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\IsFemaleVariable\obj\Debug\IsFemaleVariable.pdb

@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\Task3to5\bin\Debug\Task3to5.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\Task3to5\bin\Debug\Task3to5.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\Task3to5\bin\Debug\Task3to5.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\Task3to5\obj\Debug\Task3to5.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\Task3to5\obj\Debug\Task3to5.pdb

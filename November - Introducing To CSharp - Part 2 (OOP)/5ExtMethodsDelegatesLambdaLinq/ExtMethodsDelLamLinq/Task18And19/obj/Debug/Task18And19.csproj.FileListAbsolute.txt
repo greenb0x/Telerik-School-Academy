@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\Task18And19\bin\Debug\Task18And19.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\Task18And19\bin\Debug\Task18And19.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\Task18And19\bin\Debug\Task18And19.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\Task18And19\obj\Debug\Task18And19.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\Task18And19\obj\Debug\Task18And19.pdb

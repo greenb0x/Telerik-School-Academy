@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\BiggestOfThreeNumbers\bin\Debug\BiggestOfThreeNumbers.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\BiggestOfThreeNumbers\bin\Debug\BiggestOfThreeNumbers.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\BiggestOfThreeNumbers\bin\Debug\BiggestOfThreeNumbers.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\BiggestOfThreeNumbers\obj\Debug\3. BiggestOfThreeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\BiggestOfThreeNumbers\obj\Debug\BiggestOfThreeNumbers.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\BiggestOfThreeNumbers\obj\Debug\BiggestOfThreeNumbers.pdb

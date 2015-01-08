@@ -1,0 +1,6 @@
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\Quotations\bin\Debug\Quotations.exe.config
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\Quotations\obj\Debug\Quotations.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\Quotations\obj\Debug\Quotations.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\2. PrimitivDataTypesAndVariables\Quotations\bin\Debug\Quotations.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\2. PrimitivDataTypesAndVariables\Quotations\obj\Debug\Quotations.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\2. PrimitivDataTypesAndVariables\Quotations\obj\Debug\Quotations.pdb

@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\ExtractIntGivenBit\bin\Debug\ExtractIntGivenBit.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\ExtractIntGivenBit\bin\Debug\ExtractIntGivenBit.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\ExtractIntGivenBit\bin\Debug\ExtractIntGivenBit.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\ExtractIntGivenBit\obj\Debug\ExtractIntGivenBit.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\ExtractIntGivenBit\obj\Debug\ExtractIntGivenBit.pdb

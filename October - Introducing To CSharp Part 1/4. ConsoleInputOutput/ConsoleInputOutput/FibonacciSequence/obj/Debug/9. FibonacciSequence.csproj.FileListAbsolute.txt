@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\FibonacciSequence\bin\Debug\FibonacciSequence.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\FibonacciSequence\bin\Debug\FibonacciSequence.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\FibonacciSequence\bin\Debug\FibonacciSequence.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\FibonacciSequence\obj\Debug\9. FibonacciSequence.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\FibonacciSequence\obj\Debug\FibonacciSequence.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\FibonacciSequence\obj\Debug\FibonacciSequence.pdb

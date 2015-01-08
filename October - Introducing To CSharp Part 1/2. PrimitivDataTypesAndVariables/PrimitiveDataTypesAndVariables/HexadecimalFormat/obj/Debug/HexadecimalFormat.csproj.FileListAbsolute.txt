@@ -1,0 +1,5 @@
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe.config
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\HexadecimalFormat\bin\Debug\HexadecimalFormat.pdb
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\HexadecimalFormat\obj\Debug\HexadecimalFormat.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\HexadecimalFormat\obj\Debug\HexadecimalFormat.pdb

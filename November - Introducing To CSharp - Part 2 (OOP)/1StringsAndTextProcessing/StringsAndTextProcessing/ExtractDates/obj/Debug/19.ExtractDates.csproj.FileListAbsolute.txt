@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\ExtractDates\bin\Debug\ExtractDates.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\ExtractDates\bin\Debug\ExtractDates.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\ExtractDates\bin\Debug\ExtractDates.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\ExtractDates\obj\Debug\ExtractDates.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\ExtractDates\obj\Debug\ExtractDates.pdb

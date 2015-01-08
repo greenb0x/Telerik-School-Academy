@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\8. MultidimensionalArrays\MultidimensionalArrays\LongestSequence\bin\Debug\LongestSequence.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\8. MultidimensionalArrays\MultidimensionalArrays\LongestSequence\bin\Debug\LongestSequence.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\8. MultidimensionalArrays\MultidimensionalArrays\LongestSequence\bin\Debug\LongestSequence.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\8. MultidimensionalArrays\MultidimensionalArrays\LongestSequence\obj\Debug\LongestSequence.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\8. MultidimensionalArrays\MultidimensionalArrays\LongestSequence\obj\Debug\LongestSequence.pdb

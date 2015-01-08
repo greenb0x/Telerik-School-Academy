@@ -1,0 +1,8 @@
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\ObjectToString\bin\Debug\ObjectToString.exe.config
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\ObjectToString\bin\Debug\ObjectToString.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\ObjectToString\bin\Debug\ObjectToString.pdb
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\ObjectToString\obj\Debug\ObjectToString.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\ObjectToString\obj\Debug\ObjectToString.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\2. PrimitivDataTypesAndVariables\ObjectToString\bin\Debug\ObjectToString.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\2. PrimitivDataTypesAndVariables\ObjectToString\obj\Debug\ObjectToString.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\2. PrimitivDataTypesAndVariables\ObjectToString\obj\Debug\ObjectToString.pdb

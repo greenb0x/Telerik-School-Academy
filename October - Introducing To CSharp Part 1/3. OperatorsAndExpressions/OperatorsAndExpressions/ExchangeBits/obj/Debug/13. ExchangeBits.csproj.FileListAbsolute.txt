@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\ExchangeBits\bin\Debug\ExchangeBits.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\ExchangeBits\bin\Debug\ExchangeBits.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\ExchangeBits\bin\Debug\ExchangeBits.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\ExchangeBits\obj\Debug\ExchangeBits.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\ExchangeBits\obj\Debug\ExchangeBits.pdb

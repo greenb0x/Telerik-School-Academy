@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\8. MultidimensionalArrays\MultidimensionalArrays\FillMatrix\bin\Debug\FillMatrix.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\8. MultidimensionalArrays\MultidimensionalArrays\FillMatrix\bin\Debug\FillMatrix.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\8. MultidimensionalArrays\MultidimensionalArrays\FillMatrix\bin\Debug\FillMatrix.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\8. MultidimensionalArrays\MultidimensionalArrays\FillMatrix\obj\Debug\1. FillMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\8. MultidimensionalArrays\MultidimensionalArrays\FillMatrix\obj\Debug\FillMatrix.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\8. MultidimensionalArrays\MultidimensionalArrays\FillMatrix\obj\Debug\FillMatrix.pdb

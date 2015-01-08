@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\BinarySearch\obj\Debug\BinarySearch.pdb

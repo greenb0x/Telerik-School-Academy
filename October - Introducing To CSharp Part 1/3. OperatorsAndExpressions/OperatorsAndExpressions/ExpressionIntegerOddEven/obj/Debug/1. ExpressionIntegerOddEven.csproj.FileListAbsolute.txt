@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\ExpressionIntegerOddEven\bin\Debug\ExpressionIntegerOddEven.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\ExpressionIntegerOddEven\bin\Debug\ExpressionIntegerOddEven.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\ExpressionIntegerOddEven\bin\Debug\ExpressionIntegerOddEven.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\ExpressionIntegerOddEven\obj\Debug\1. ExpressionIntegerOddEven.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\ExpressionIntegerOddEven\obj\Debug\ExpressionIntegerOddEven.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\ExpressionIntegerOddEven\obj\Debug\ExpressionIntegerOddEven.pdb

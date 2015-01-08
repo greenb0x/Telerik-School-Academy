@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\GreatestCommonDivisorOfTwoNumbers\bin\Debug\GreatestCommonDivisorOfTwoNumbers.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\GreatestCommonDivisorOfTwoNumbers\bin\Debug\GreatestCommonDivisorOfTwoNumbers.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\GreatestCommonDivisorOfTwoNumbers\bin\Debug\GreatestCommonDivisorOfTwoNumbers.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\GreatestCommonDivisorOfTwoNumbers\obj\Debug\GreatestCommonDivisorOfTwoNumbers.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\GreatestCommonDivisorOfTwoNumbers\obj\Debug\GreatestCommonDivisorOfTwoNumbers.pdb

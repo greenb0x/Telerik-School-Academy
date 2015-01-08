@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\NumbersToText\obj\Debug\11. NumbersToText.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\NumbersToText\bin\Debug\NumbersToText.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\NumbersToText\bin\Debug\NumbersToText.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\NumbersToText\bin\Debug\NumbersToText.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\NumbersToText\obj\Debug\NumbersToText.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\NumbersToText\obj\Debug\NumbersToText.pdb

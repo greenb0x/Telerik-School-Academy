@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\FindSubstringInText\bin\Debug\FindSubstringInText.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\FindSubstringInText\bin\Debug\FindSubstringInText.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\FindSubstringInText\bin\Debug\FindSubstringInText.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\FindSubstringInText\obj\Debug\FindSubstringInText.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\FindSubstringInText\obj\Debug\FindSubstringInText.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\FindSubstringInText\obj\Debug\4.FindSubstringInText.csprojResolveAssemblyReference.cache

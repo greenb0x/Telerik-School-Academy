@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\CalculateSum\bin\Debug\CalculateSum.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\CalculateSum\bin\Debug\CalculateSum.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\CalculateSum\bin\Debug\CalculateSum.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\CalculateSum\obj\Debug\CalculateSum.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\CalculateSum\obj\Debug\CalculateSum.pdb

@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\SequenceOfGivenSum\obj\Debug\SequenceOfGivenSum.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\SequenceOfGivenSum\obj\Debug\SequenceOfGivenSum.pdb

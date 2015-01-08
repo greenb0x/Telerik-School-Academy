@@ -1,0 +1,9 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\FallingRocks\obj\Debug\11. FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\4. ConsoleInputOutput\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\4. ConsoleInputOutput\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\4. ConsoleInputOutput\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.pdb

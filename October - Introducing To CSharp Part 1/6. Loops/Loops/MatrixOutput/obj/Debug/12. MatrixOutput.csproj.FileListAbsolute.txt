@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\MatrixOutput\bin\Debug\MatrixOutput.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\MatrixOutput\bin\Debug\MatrixOutput.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\MatrixOutput\bin\Debug\MatrixOutput.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\MatrixOutput\obj\Debug\MatrixOutput.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\MatrixOutput\obj\Debug\MatrixOutput.pdb

@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\SumOfSubset\bin\Debug\SumOfSubset.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\SumOfSubset\bin\Debug\SumOfSubset.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\SumOfSubset\bin\Debug\SumOfSubset.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\SumOfSubset\obj\Debug\9. SumOfSubset.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\SumOfSubset\obj\Debug\SumOfSubset.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\SumOfSubset\obj\Debug\SumOfSubset.pdb

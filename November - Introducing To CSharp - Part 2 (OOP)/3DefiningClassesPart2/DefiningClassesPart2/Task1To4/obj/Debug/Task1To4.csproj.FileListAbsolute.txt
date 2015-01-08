@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\3DefiningClassesPart2\DefiningClassesPart2\Task1To4\bin\Debug\Task1To4.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\3DefiningClassesPart2\DefiningClassesPart2\Task1To4\bin\Debug\Task1To4.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\3DefiningClassesPart2\DefiningClassesPart2\Task1To4\bin\Debug\Task1To4.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\3DefiningClassesPart2\DefiningClassesPart2\Task1To4\obj\Debug\Task1To4.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\3DefiningClassesPart2\DefiningClassesPart2\Task1To4\obj\Debug\Task1To4.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\3DefiningClassesPart2\DefiningClassesPart2\Task1To4\obj\Debug\Task1To4.pdb

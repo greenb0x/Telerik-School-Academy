@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

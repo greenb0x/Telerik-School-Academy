@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\GivenPointWithinCircle\bin\Debug\GivenPointWithinCircle.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\GivenPointWithinCircle\bin\Debug\GivenPointWithinCircle.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\GivenPointWithinCircle\bin\Debug\GivenPointWithinCircle.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\GivenPointWithinCircle\obj\Debug\GivenPointWithinCircle.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\GivenPointWithinCircle\obj\Debug\GivenPointWithinCircle.pdb

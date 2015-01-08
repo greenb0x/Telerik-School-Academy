@@ -1,0 +1,9 @@
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\FiveVariables\bin\Debug\FiveVariables.exe.config
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\FiveVariables\bin\Debug\FiveVariables.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\FiveVariables\bin\Debug\FiveVariables.pdb
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\FiveVariables\obj\Debug\1. FiveVariables.csprojResolveAssemblyReference.cache
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\FiveVariables\obj\Debug\FiveVariables.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\FiveVariables\obj\Debug\FiveVariables.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\2. PrimitivDataTypesAndVariables\FiveVariables\bin\Debug\FiveVariables.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\2. PrimitivDataTypesAndVariables\FiveVariables\obj\Debug\FiveVariables.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\2. PrimitivDataTypesAndVariables\FiveVariables\obj\Debug\FiveVariables.pdb

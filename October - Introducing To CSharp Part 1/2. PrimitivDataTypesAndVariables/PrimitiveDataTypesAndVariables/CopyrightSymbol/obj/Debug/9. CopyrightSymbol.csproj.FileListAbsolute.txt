@@ -1,0 +1,6 @@
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\CopyrightSymbol\bin\Debug\CopyrightSymbol.exe.config
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\CopyrightSymbol\bin\Debug\CopyrightSymbol.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\CopyrightSymbol\bin\Debug\CopyrightSymbol.pdb
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\CopyrightSymbol\obj\Debug\CopyrightSymbol.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\CopyrightSymbol\obj\Debug\CopyrightSymbol.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\Domasharka\CopyrightSymbol\obj\Debug\9. CopyrightSymbol.csprojResolveAssemblyReference.cache

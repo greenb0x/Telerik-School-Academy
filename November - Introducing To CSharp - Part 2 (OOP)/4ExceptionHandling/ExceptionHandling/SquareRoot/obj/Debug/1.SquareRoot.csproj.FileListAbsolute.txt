@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\4ExceptionHandling\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\4ExceptionHandling\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\4ExceptionHandling\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\4ExceptionHandling\ExceptionHandling\SquareRoot\obj\Debug\1.SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\4ExceptionHandling\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\4ExceptionHandling\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.pdb

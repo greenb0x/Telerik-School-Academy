@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\3DefiningClassesPart2\DefiningClassesPart2\Task8To10\bin\Debug\Task8To10.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\3DefiningClassesPart2\DefiningClassesPart2\Task8To10\bin\Debug\Task8To10.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\3DefiningClassesPart2\DefiningClassesPart2\Task8To10\bin\Debug\Task8To10.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\3DefiningClassesPart2\DefiningClassesPart2\Task8To10\obj\Debug\Task8To10.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\3DefiningClassesPart2\DefiningClassesPart2\Task8To10\obj\Debug\Task8To10.pdb

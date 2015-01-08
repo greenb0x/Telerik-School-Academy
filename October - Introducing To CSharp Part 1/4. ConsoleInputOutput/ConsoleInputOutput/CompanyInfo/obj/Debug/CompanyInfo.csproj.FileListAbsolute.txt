@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\CompanyInfo\bin\Debug\CompanyInfo.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\CompanyInfo\bin\Debug\CompanyInfo.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\CompanyInfo\bin\Debug\CompanyInfo.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\CompanyInfo\obj\Debug\CompanyInfo.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\CompanyInfo\obj\Debug\CompanyInfo.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\CompanyInfo\obj\Debug\CompanyInfo.pdb

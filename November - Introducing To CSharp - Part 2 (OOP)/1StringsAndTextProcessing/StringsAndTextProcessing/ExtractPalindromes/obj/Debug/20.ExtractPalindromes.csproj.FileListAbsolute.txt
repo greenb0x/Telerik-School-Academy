@@ -1,0 +1,3 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\ExtractPalindromes\bin\Debug\ExtractPalindromes.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\ExtractPalindromes\obj\Debug\ExtractPalindromes.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\ExtractPalindromes\obj\Debug\ExtractPalindromes.pdb

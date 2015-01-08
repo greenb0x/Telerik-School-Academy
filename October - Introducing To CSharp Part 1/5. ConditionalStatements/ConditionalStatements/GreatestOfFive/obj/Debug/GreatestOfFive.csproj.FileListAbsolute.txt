@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\GreatestOfFive\bin\Debug\GreatestOfFive.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\GreatestOfFive\bin\Debug\GreatestOfFive.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\GreatestOfFive\bin\Debug\GreatestOfFive.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\GreatestOfFive\obj\Debug\GreatestOfFive.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\GreatestOfFive\obj\Debug\GreatestOfFive.pdb

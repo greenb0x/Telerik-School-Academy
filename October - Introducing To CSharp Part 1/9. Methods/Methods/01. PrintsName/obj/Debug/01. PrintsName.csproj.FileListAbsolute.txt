@@ -1,0 +1,15 @@
+D:\U4ilishte\Telerik\C# 2 4ast\HW\Methods_HW\01. PrintsName\bin\Debug\_01.PrintsName.exe.config
+D:\U4ilishte\Telerik\C# 2 4ast\HW\Methods_HW\01. PrintsName\bin\Debug\_01.PrintsName.exe
+D:\U4ilishte\Telerik\C# 2 4ast\HW\Methods_HW\01. PrintsName\bin\Debug\_01.PrintsName.pdb
+D:\U4ilishte\Telerik\C# 2 4ast\HW\Methods_HW\01. PrintsName\obj\Debug\01. PrintsName.csprojResolveAssemblyReference.cache
+D:\U4ilishte\Telerik\C# 2 4ast\HW\Methods_HW\01. PrintsName\obj\Debug\_01.PrintsName.exe
+D:\U4ilishte\Telerik\C# 2 4ast\HW\Methods_HW\01. PrintsName\obj\Debug\_01.PrintsName.pdb
+C:\Users\Георги\Desktop\Methods_HW\01. PrintsName\bin\Debug\_01.PrintsName.exe.config
+C:\Users\Георги\Desktop\Methods_HW\01. PrintsName\obj\Debug\_01.PrintsName.exe
+C:\Users\Георги\Desktop\Methods_HW\01. PrintsName\obj\Debug\_01.PrintsName.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\9. Methods\Methods\01. PrintsName\bin\Debug\_01.PrintsName.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\9. Methods\Methods\01. PrintsName\obj\Debug\_01.PrintsName.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\9. Methods\Methods\01. PrintsName\obj\Debug\_01.PrintsName.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\9. Methods\Methods\01. PrintsName\bin\Debug\_01.PrintsName.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\9. Methods\Methods\01. PrintsName\bin\Debug\_01.PrintsName.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\9. Methods\Methods\01. PrintsName\obj\Debug\01. PrintsName.csprojResolveAssemblyReference.cache

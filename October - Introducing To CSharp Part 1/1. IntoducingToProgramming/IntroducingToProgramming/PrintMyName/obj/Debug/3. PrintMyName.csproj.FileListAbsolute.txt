@@ -1,0 +1,2 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\Domashno\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\October\1. IntoducingToProgramming\PrintMyName\bin\Debug\PrintMyName.exe.config

@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\SubstringExtension\bin\Debug\SubstringExtension.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\SubstringExtension\bin\Debug\SubstringExtension.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\SubstringExtension\bin\Debug\SubstringExtension.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\SubstringExtension\obj\Debug\1.SubstringExtension.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\SubstringExtension\obj\Debug\SubstringExtension.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\SubstringExtension\obj\Debug\SubstringExtension.pdb

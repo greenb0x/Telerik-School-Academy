@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\SortingThreeRealValues\bin\Debug\SortingThreeRealValues.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\SortingThreeRealValues\bin\Debug\SortingThreeRealValues.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\SortingThreeRealValues\bin\Debug\SortingThreeRealValues.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\SortingThreeRealValues\obj\Debug\4. SortingThreeRealValues.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\SortingThreeRealValues\obj\Debug\SortingThreeRealValues.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\SortingThreeRealValues\obj\Debug\SortingThreeRealValues.pdb

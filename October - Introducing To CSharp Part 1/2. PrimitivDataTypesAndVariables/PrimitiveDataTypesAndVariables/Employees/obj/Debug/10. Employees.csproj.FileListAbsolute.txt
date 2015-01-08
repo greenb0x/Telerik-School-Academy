@@ -1,0 +1,3 @@
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\Employees\bin\Debug\Employees.exe.config
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\Employees\obj\Debug\Employees.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\Employees\obj\Debug\Employees.pdb

@@ -1,0 +1,8 @@
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\DeclareUnicodeCode\bin\Debug\DeclareUnicodeCode.exe.config
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\DeclareUnicodeCode\bin\Debug\DeclareUnicodeCode.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\DeclareUnicodeCode\bin\Debug\DeclareUnicodeCode.pdb
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\DeclareUnicodeCode\obj\Debug\DeclareUnicodeCode.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\DeclareUnicodeCode\obj\Debug\DeclareUnicodeCode.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\2. PrimitivDataTypesAndVariables\DeclareUnicodeCode\bin\Debug\DeclareUnicodeCode.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\2. PrimitivDataTypesAndVariables\DeclareUnicodeCode\obj\Debug\DeclareUnicodeCode.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\2. PrimitivDataTypesAndVariables\DeclareUnicodeCode\obj\Debug\DeclareUnicodeCode.pdb

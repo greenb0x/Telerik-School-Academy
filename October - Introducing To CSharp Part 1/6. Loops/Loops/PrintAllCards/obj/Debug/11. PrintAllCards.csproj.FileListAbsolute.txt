@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\PrintAllCards\bin\Debug\PrintAllCards.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\PrintAllCards\bin\Debug\PrintAllCards.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\PrintAllCards\bin\Debug\PrintAllCards.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\PrintAllCards\obj\Debug\PrintAllCards.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\PrintAllCards\obj\Debug\PrintAllCards.pdb

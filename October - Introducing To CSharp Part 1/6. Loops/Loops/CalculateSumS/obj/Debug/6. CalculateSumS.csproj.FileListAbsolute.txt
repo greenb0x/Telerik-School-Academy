@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\CalculateSumS\bin\Debug\CalculateSumS.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\CalculateSumS\bin\Debug\CalculateSumS.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\CalculateSumS\bin\Debug\CalculateSumS.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\CalculateSumS\obj\Debug\6. CalculateSumS.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\CalculateSumS\obj\Debug\CalculateSumS.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\CalculateSumS\obj\Debug\CalculateSumS.pdb

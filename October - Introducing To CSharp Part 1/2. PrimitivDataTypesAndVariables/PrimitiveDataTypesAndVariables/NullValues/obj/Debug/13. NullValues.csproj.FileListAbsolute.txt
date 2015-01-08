@@ -1,0 +1,5 @@
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\NullValues\bin\Debug\NullValues.exe.config
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\NullValues\bin\Debug\NullValues.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\NullValues\bin\Debug\NullValues.pdb
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\NullValues\obj\Debug\NullValues.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\NullValues\obj\Debug\NullValues.pdb

@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\FindThirdBitOfInt\bin\Debug\FindThirdBitOfInt.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\FindThirdBitOfInt\bin\Debug\FindThirdBitOfInt.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\FindThirdBitOfInt\bin\Debug\FindThirdBitOfInt.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\FindThirdBitOfInt\obj\Debug\FindThirdBitOfInt.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\FindThirdBitOfInt\obj\Debug\FindThirdBitOfInt.pdb

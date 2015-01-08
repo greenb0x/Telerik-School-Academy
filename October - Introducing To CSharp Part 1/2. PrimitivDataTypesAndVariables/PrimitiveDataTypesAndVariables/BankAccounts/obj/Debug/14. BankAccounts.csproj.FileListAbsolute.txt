@@ -1,0 +1,5 @@
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\BankAccounts\bin\Debug\BankAccounts.exe.config
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\BankAccounts\bin\Debug\BankAccounts.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\BankAccounts\bin\Debug\BankAccounts.pdb
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\BankAccounts\obj\Debug\BankAccounts.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\BankAccounts\obj\Debug\BankAccounts.pdb

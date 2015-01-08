@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\3DefiningClassesPart2\DefiningClassesPart2\Task11\bin\Debug\Task11.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\3DefiningClassesPart2\DefiningClassesPart2\Task11\bin\Debug\Task11.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\3DefiningClassesPart2\DefiningClassesPart2\Task11\bin\Debug\Task11.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\3DefiningClassesPart2\DefiningClassesPart2\Task11\obj\Debug\Task11.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\3DefiningClassesPart2\DefiningClassesPart2\Task11\obj\Debug\Task11.pdb

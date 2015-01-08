@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\Domashno\DateAndTime\bin\Debug\DateAndTime.exe.config
+C:\Users\Георги\documents\visual studio 2013\Projects\Domashno\DateAndTime\bin\Debug\DateAndTime.exe
+C:\Users\Георги\documents\visual studio 2013\Projects\Domashno\DateAndTime\bin\Debug\DateAndTime.pdb
+C:\Users\Георги\documents\visual studio 2013\Projects\Domashno\DateAndTime\obj\Debug\7. DateAndTime.csprojResolveAssemblyReference.cache
+C:\Users\Георги\documents\visual studio 2013\Projects\Domashno\DateAndTime\obj\Debug\DateAndTime.exe
+C:\Users\Георги\documents\visual studio 2013\Projects\Domashno\DateAndTime\obj\Debug\DateAndTime.pdb

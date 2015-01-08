@@ -1,0 +1,3 @@
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

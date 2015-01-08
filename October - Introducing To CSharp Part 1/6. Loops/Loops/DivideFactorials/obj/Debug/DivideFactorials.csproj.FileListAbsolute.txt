@@ -1,0 +1,1 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\DivideFactorials\bin\Debug\DivideFactorials.exe.config

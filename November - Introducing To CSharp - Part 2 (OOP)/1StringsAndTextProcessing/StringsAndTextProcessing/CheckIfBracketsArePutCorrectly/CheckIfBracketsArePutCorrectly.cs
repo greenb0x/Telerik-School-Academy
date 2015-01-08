@@ -1,0 +1,30 @@
+﻿using System;
+
+namespace CheckIfBracketsArePutCorrectly
+{
+    class CheckIfBracketsArePutCorrectly
+    {
+        static bool CheckBrackets(string str)
+        {
+            int stack = 0;
+            for (int i = 0; i < str.Length && stack >= 0; i++)
+            {
+                if (str[i] == '(')
+                {
+                    stack++;
+                }
+                if (str[i] == ')')
+                {
+                    stack--;
+                }
+            }
+            return stack == 0;
+        }
+
+        static void Main()
+        {
+            Console.WriteLine(CheckBrackets("((a+b)*9)"));
+            Console.WriteLine(CheckBrackets(")(a+b)*9("));
+        }
+    }
+}

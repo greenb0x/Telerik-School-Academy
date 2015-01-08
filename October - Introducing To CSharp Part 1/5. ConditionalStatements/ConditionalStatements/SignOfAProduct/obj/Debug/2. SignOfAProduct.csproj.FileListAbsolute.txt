@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\SignOfAProduct\bin\Debug\SignOfAProduct.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\SignOfAProduct\bin\Debug\SignOfAProduct.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\SignOfAProduct\bin\Debug\SignOfAProduct.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\SignOfAProduct\obj\Debug\SignOfAProduct.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\ConditionalStatements\SignOfAProduct\obj\Debug\SignOfAProduct.pdb

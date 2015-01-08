@@ -1,0 +1,2 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\Domashno\YouAfterTenYears\bin\Debug\YouAfterTenYears.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\October\1. IntoducingToProgramming\YouAfterTenYears\bin\Debug\YouAfterTenYears.exe.config

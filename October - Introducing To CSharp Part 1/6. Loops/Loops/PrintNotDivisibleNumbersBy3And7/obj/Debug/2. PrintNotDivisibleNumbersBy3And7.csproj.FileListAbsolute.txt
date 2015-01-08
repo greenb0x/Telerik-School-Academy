@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\PrintNotDivisibleNumbersBy3And7\bin\Debug\PrintNotDivisibleNumbersBy3And7.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\PrintNotDivisibleNumbersBy3And7\bin\Debug\PrintNotDivisibleNumbersBy3And7.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\PrintNotDivisibleNumbersBy3And7\bin\Debug\PrintNotDivisibleNumbersBy3And7.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\PrintNotDivisibleNumbersBy3And7\obj\Debug\2. PrintNotDivisibleNumbersBy3And7.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\PrintNotDivisibleNumbersBy3And7\obj\Debug\PrintNotDivisibleNumbersBy3And7.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\PrintNotDivisibleNumbersBy3And7\obj\Debug\PrintNotDivisibleNumbersBy3And7.pdb

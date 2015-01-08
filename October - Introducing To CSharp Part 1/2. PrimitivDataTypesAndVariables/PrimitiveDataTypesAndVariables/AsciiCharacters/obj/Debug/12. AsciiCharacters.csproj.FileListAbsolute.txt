@@ -1,0 +1,5 @@
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\AsciiCharacters\bin\Debug\AsciiCharacters.exe.config
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\AsciiCharacters\bin\Debug\AsciiCharacters.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\AsciiCharacters\bin\Debug\AsciiCharacters.pdb
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\AsciiCharacters\obj\Debug\AsciiCharacters.exe
+c:\users\георги\documents\visual studio 2013\Projects\Domasharka\AsciiCharacters\obj\Debug\AsciiCharacters.pdb

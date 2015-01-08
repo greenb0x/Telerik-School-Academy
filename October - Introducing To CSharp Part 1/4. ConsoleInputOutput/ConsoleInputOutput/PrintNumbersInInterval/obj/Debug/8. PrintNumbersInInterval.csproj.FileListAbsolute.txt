@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\PrintNumbersInInterval\bin\Debug\PrintNumbersInInterval.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\PrintNumbersInInterval\bin\Debug\PrintNumbersInInterval.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\PrintNumbersInInterval\bin\Debug\PrintNumbersInInterval.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\PrintNumbersInInterval\obj\Debug\8. PrintNumbersInInterval.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\PrintNumbersInInterval\obj\Debug\PrintNumbersInInterval.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\PrintNumbersInInterval\obj\Debug\PrintNumbersInInterval.pdb

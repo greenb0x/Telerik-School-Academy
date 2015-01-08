@@ -1,0 +1,9 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\DivideFactorials\obj\Debug\4. DivideFactorials.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\DivideFactorials\bin\Debug\DivideFactorials.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\DivideFactorials\bin\Debug\DivideFactorials.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\DivideFactorials\bin\Debug\DivideFactorials.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\DivideFactorials\obj\Debug\DivideFactorials.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\DivideFactorials\obj\Debug\DivideFactorials.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\DivideFactorials\bin\Debug\DivideFactorials.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\DivideFactorials\obj\Debug\DivideFactorials.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\6. Loops\Loops\DivideFactorials\obj\Debug\DivideFactorials.pdb

@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\MultipleElementsByFive\bin\Debug\MultipleElementsByFive.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\MultipleElementsByFive\bin\Debug\MultipleElementsByFive.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\MultipleElementsByFive\bin\Debug\MultipleElementsByFive.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\MultipleElementsByFive\obj\Debug\1. MultipleElementsByFive.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\MultipleElementsByFive\obj\Debug\MultipleElementsByFive.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\MultipleElementsByFive\obj\Debug\MultipleElementsByFive.pdb

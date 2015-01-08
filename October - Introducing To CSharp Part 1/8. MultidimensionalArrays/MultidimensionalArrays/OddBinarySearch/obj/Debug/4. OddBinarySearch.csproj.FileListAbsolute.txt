@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\8. MultidimensionalArrays\MultidimensionalArrays\OddBinarySearch\bin\Debug\OddBinarySearch.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\8. MultidimensionalArrays\MultidimensionalArrays\OddBinarySearch\bin\Debug\OddBinarySearch.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\8. MultidimensionalArrays\MultidimensionalArrays\OddBinarySearch\bin\Debug\OddBinarySearch.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\8. MultidimensionalArrays\MultidimensionalArrays\OddBinarySearch\obj\Debug\OddBinarySearch.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\8. MultidimensionalArrays\MultidimensionalArrays\OddBinarySearch\obj\Debug\OddBinarySearch.pdb

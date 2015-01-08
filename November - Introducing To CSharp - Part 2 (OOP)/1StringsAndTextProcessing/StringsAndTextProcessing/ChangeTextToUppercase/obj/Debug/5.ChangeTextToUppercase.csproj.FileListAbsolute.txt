@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\ChangeTextToUppercase\bin\Debug\ChangeTextToUppercase.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\ChangeTextToUppercase\bin\Debug\ChangeTextToUppercase.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\ChangeTextToUppercase\bin\Debug\ChangeTextToUppercase.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\ChangeTextToUppercase\obj\Debug\5.ChangeTextToUppercase.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\ChangeTextToUppercase\obj\Debug\ChangeTextToUppercase.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\1StringsAndTextProcessing\StringsAndTextProcessing\ChangeTextToUppercase\obj\Debug\ChangeTextToUppercase.pdb

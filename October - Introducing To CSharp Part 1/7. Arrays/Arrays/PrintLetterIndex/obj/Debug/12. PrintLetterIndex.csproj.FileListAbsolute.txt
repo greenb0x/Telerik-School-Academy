@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\PrintLetterIndex\bin\Debug\PrintLetterIndex.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\PrintLetterIndex\bin\Debug\PrintLetterIndex.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\PrintLetterIndex\bin\Debug\PrintLetterIndex.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\PrintLetterIndex\obj\Debug\PrintLetterIndex.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\PrintLetterIndex\obj\Debug\PrintLetterIndex.pdb

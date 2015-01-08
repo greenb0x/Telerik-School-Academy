@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\4ExceptionHandling\ExceptionHandling\Cat\bin\Debug\Cat.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\4ExceptionHandling\ExceptionHandling\Cat\bin\Debug\Cat.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\4ExceptionHandling\ExceptionHandling\Cat\bin\Debug\Cat.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\4ExceptionHandling\ExceptionHandling\Cat\obj\Debug\Cat.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\4ExceptionHandling\ExceptionHandling\Cat\obj\Debug\Cat.pdb

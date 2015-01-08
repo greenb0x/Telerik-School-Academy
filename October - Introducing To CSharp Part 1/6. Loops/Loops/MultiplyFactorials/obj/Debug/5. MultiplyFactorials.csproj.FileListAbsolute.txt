@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\MultiplyFactorials\bin\Debug\MultiplyFactorials.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\MultiplyFactorials\bin\Debug\MultiplyFactorials.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\MultiplyFactorials\bin\Debug\MultiplyFactorials.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\MultiplyFactorials\obj\Debug\5. MultiplyFactorials.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\MultiplyFactorials\obj\Debug\MultiplyFactorials.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\5. ConditionalStatements\Loops\MultiplyFactorials\obj\Debug\MultiplyFactorials.pdb

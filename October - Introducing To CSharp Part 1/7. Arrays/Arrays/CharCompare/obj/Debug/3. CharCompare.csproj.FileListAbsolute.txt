@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\CharCompare\bin\Debug\CharCompare.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\CharCompare\bin\Debug\CharCompare.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\CharCompare\bin\Debug\CharCompare.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\CharCompare\obj\Debug\CharCompare.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\CharCompare\obj\Debug\CharCompare.pdb

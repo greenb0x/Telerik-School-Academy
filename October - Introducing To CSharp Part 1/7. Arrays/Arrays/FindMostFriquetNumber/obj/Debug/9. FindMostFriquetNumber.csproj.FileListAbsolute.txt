@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\FindMostFriquetNumber\bin\Debug\FindMostFriquetNumber.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\FindMostFriquetNumber\bin\Debug\FindMostFriquetNumber.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\FindMostFriquetNumber\bin\Debug\FindMostFriquetNumber.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\FindMostFriquetNumber\obj\Debug\FindMostFriquetNumber.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\7. Arrays\Arrays\FindMostFriquetNumber\obj\Debug\FindMostFriquetNumber.pdb

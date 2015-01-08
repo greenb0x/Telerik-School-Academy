@@ -1,0 +1,1 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\CalculateSum\bin\Debug\CalculateSum.exe.config

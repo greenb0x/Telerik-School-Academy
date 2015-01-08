@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\2DefiningClassesPart1\DefiningClassesPart1\GSM\bin\Debug\GSM.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\2DefiningClassesPart1\DefiningClassesPart1\GSM\bin\Debug\GSM.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\2DefiningClassesPart1\DefiningClassesPart1\GSM\bin\Debug\GSM.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\2DefiningClassesPart1\DefiningClassesPart1\GSM\obj\Debug\GSM.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\2DefiningClassesPart1\DefiningClassesPart1\GSM\obj\Debug\GSM.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\2DefiningClassesPart1\DefiningClassesPart1\GSM\obj\Debug\GSM.pdb

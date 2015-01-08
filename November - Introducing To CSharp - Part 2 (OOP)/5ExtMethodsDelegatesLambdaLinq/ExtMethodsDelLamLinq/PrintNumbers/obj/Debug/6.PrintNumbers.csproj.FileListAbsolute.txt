@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\November\5ExtMethodsDelegatesLambdaLinq\ExtMethodsDelLamLinq\PrintNumbers\obj\Debug\PrintNumbers.pdb

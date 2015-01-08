@@ -1,0 +1,6 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\ReadAndPrintSum\bin\Debug\ReadAndPrintSum.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\ReadAndPrintSum\bin\Debug\ReadAndPrintSum.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\ReadAndPrintSum\bin\Debug\ReadAndPrintSum.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\ReadAndPrintSum\obj\Debug\ReadAndPrintSum.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\ReadAndPrintSum\obj\Debug\ReadAndPrintSum.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\ReadAndPrintSum\obj\Debug\ReadAndPrintSum.pdb

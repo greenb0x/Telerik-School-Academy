@@ -1,0 +1,2 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\Domashno\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\October\1. IntoducingToProgramming\HelloCSharp\bin\Debug\HelloCSharp.exe.config

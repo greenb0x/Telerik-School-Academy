@@ -1,0 +1,5 @@
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\TrapezoidsArea\bin\Debug\TrapezoidsArea.exe.config
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\TrapezoidsArea\bin\Debug\TrapezoidsArea.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\TrapezoidsArea\bin\Debug\TrapezoidsArea.pdb
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\TrapezoidsArea\obj\Debug\TrapezoidsArea.exe
+C:\Users\Георги\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OperatorsAndExpressions\TrapezoidsArea\obj\Debug\TrapezoidsArea.pdb
