@@ -1,0 +1,101 @@
+th {
+	background-color: #12D600;
+	color: #fff;
+	font-weight: normal;
+	font-family: Arial;
+	font-size: 14px;
+	border: 1px solid #1a4b04;
+
+
+}
+
+table, td, th {
+	border-collapse: collapse;
+	padding: 5px 30px 5px 5px;
+	margin: 10px;
+}
+
+th.contact {
+	padding-left: 5px;
+	padding-right: 60px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+th.city {
+	padding-left: 5px;
+	padding-right: 90px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+th.country {
+	padding-left: 5px;
+	padding-right: 80px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+th.promoted {
+	padding-left: 5px;
+	padding-right: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+td.name {
+	padding-left: 10px;
+}
+
+td.town {
+	padding-left: 10px;
+}
+
+.germany
+{
+	background-image:url('img/de.png');
+	background-repeat: no-repeat;
+	background-position: 8px 10px;
+	padding-left: 30px;
+}
+.mexico
+{
+	background-image:url('img/mx.png');
+	background-repeat: no-repeat;
+	background-position: 8px 10px;
+	padding-left: 30px;
+}
+.uk
+{
+	background-image:url('img/gb.png');
+	background-repeat: no-repeat;
+	background-position: 8px 10px;
+	padding-left: 30px;
+}
+
+
+th:nth-child(1) {
+	border-left: none;
+}
+
+th:nth-child(4) {
+	border-right: none;
+}
+
+tr:nth-child(2n) {
+	background-color: #ececd8;
+}
+
+/* table cell borders */
+td {
+	border-left: 1px solid #595959;
+	border-right: 1px solid #595959;
+}
+
+td:nth-child(1) {
+	border-left: none;
+}
+
+td:nth-child(4) {
+	border-right: none;
+}

@@ -1,0 +1,46 @@
+body {
+	background-color: #595959;
+	font-family: Arial;
+}
+
+a {
+	color: #f3f6ac;
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 20px;
+	color: #acb1aa;
+}
+
+span.circle {
+	border-radius: 50%;
+	width: 2px;
+	height: 2px;
+	background-color: #71b47a;
+}
+
+td.info {
+	font-style: italic;
+	padding: 10px;
+}
+
+span.Status {
+	color: red;
+}
+
+td.details, td.info, td.more {
+	font-size: 14px;
+}
+
+td.info {
+	color: #fff
+}
+
+td.more {
+	color: #B2B2B2;
+}
+
+td.status {
+	color: orange;
+}
