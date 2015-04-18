@@ -1,0 +1,22 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+ul#mainUL li{
+    list-style-type: none;
+}
+
+div.listSubs{
+    display: none;
+    text-decoration: none;
+    color: #aaa;
+}
+
+ul#mainUL li:hover{
+    text-decoration: underline;
+}
+
+ul#mainUL li:hover > div.listSubs{
+    display: block;
+}

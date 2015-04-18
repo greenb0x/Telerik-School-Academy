@@ -1,0 +1,20 @@
+D:\C# Training\Telerik\02.2015\2. ASP.NET MVC Essentials\ASP.NET-MVC-Essentials\MVCEssentials\02_WebCalculator\bin\WebCalculator.dll.config
+D:\C# Training\Telerik\02.2015\2. ASP.NET MVC Essentials\ASP.NET-MVC-Essentials\MVCEssentials\02_WebCalculator\bin\WebCalculator.dll
+D:\C# Training\Telerik\02.2015\2. ASP.NET MVC Essentials\ASP.NET-MVC-Essentials\MVCEssentials\02_WebCalculator\bin\WebCalculator.pdb
+D:\C# Training\Telerik\02.2015\2. ASP.NET MVC Essentials\ASP.NET-MVC-Essentials\MVCEssentials\02_WebCalculator\bin\Antlr3.Runtime.dll
+D:\C# Training\Telerik\02.2015\2. ASP.NET MVC Essentials\ASP.NET-MVC-Essentials\MVCEssentials\02_WebCalculator\bin\Microsoft.Web.Infrastructure.dll
+D:\C# Training\Telerik\02.2015\2. ASP.NET MVC Essentials\ASP.NET-MVC-Essentials\MVCEssentials\02_WebCalculator\bin\System.Web.Mvc.dll
+D:\C# Training\Telerik\02.2015\2. ASP.NET MVC Essentials\ASP.NET-MVC-Essentials\MVCEssentials\02_WebCalculator\bin\System.Web.Optimization.dll
+D:\C# Training\Telerik\02.2015\2. ASP.NET MVC Essentials\ASP.NET-MVC-Essentials\MVCEssentials\02_WebCalculator\bin\System.Web.Razor.dll
+D:\C# Training\Telerik\02.2015\2. ASP.NET MVC Essentials\ASP.NET-MVC-Essentials\MVCEssentials\02_WebCalculator\bin\System.Web.WebPages.Deployment.dll
+D:\C# Training\Telerik\02.2015\2. ASP.NET MVC Essentials\ASP.NET-MVC-Essentials\MVCEssentials\02_WebCalculator\bin\System.Web.WebPages.dll
+D:\C# Training\Telerik\02.2015\2. ASP.NET MVC Essentials\ASP.NET-MVC-Essentials\MVCEssentials\02_WebCalculator\bin\System.Web.WebPages.Razor.dll
+D:\C# Training\Telerik\02.2015\2. ASP.NET MVC Essentials\ASP.NET-MVC-Essentials\MVCEssentials\02_WebCalculator\bin\WebGrease.dll
+D:\C# Training\Telerik\02.2015\2. ASP.NET MVC Essentials\ASP.NET-MVC-Essentials\MVCEssentials\02_WebCalculator\bin\System.Web.Mvc.xml
+D:\C# Training\Telerik\02.2015\2. ASP.NET MVC Essentials\ASP.NET-MVC-Essentials\MVCEssentials\02_WebCalculator\bin\System.Web.Razor.xml
+D:\C# Training\Telerik\02.2015\2. ASP.NET MVC Essentials\ASP.NET-MVC-Essentials\MVCEssentials\02_WebCalculator\bin\System.Web.WebPages.xml
+D:\C# Training\Telerik\02.2015\2. ASP.NET MVC Essentials\ASP.NET-MVC-Essentials\MVCEssentials\02_WebCalculator\bin\System.Web.WebPages.Deployment.xml
+D:\C# Training\Telerik\02.2015\2. ASP.NET MVC Essentials\ASP.NET-MVC-Essentials\MVCEssentials\02_WebCalculator\bin\System.Web.WebPages.Razor.xml
+D:\C# Training\Telerik\02.2015\2. ASP.NET MVC Essentials\ASP.NET-MVC-Essentials\MVCEssentials\02_WebCalculator\obj\Debug\02. WebCalculator.csprojResolveAssemblyReference.cache
+D:\C# Training\Telerik\02.2015\2. ASP.NET MVC Essentials\ASP.NET-MVC-Essentials\MVCEssentials\02_WebCalculator\obj\Debug\WebCalculator.dll
+D:\C# Training\Telerik\02.2015\2. ASP.NET MVC Essentials\ASP.NET-MVC-Essentials\MVCEssentials\02_WebCalculator\obj\Debug\WebCalculator.pdb

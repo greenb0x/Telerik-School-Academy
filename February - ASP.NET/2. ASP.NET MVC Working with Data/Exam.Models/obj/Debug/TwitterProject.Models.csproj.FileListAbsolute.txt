@@ -1,0 +1,14 @@
+C:\Users\Георги\Desktop\telerik-academy-master\ASP.NET-MVC\ASP.NET-MVC-WorkingWithData\Exam.Models\bin\Debug\Exam.Models.dll.config
+C:\Users\Георги\Desktop\telerik-academy-master\ASP.NET-MVC\ASP.NET-MVC-WorkingWithData\Exam.Models\bin\Debug\Exam.Models.dll
+C:\Users\Георги\Desktop\telerik-academy-master\ASP.NET-MVC\ASP.NET-MVC-WorkingWithData\Exam.Models\bin\Debug\Exam.Models.pdb
+C:\Users\Георги\Desktop\telerik-academy-master\ASP.NET-MVC\ASP.NET-MVC-WorkingWithData\Exam.Models\bin\Debug\EntityFramework.dll
+C:\Users\Георги\Desktop\telerik-academy-master\ASP.NET-MVC\ASP.NET-MVC-WorkingWithData\Exam.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Георги\Desktop\telerik-academy-master\ASP.NET-MVC\ASP.NET-MVC-WorkingWithData\Exam.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Георги\Desktop\telerik-academy-master\ASP.NET-MVC\ASP.NET-MVC-WorkingWithData\Exam.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Георги\Desktop\telerik-academy-master\ASP.NET-MVC\ASP.NET-MVC-WorkingWithData\Exam.Models\bin\Debug\EntityFramework.xml
+C:\Users\Георги\Desktop\telerik-academy-master\ASP.NET-MVC\ASP.NET-MVC-WorkingWithData\Exam.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Георги\Desktop\telerik-academy-master\ASP.NET-MVC\ASP.NET-MVC-WorkingWithData\Exam.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Георги\Desktop\telerik-academy-master\ASP.NET-MVC\ASP.NET-MVC-WorkingWithData\Exam.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Георги\Desktop\telerik-academy-master\ASP.NET-MVC\ASP.NET-MVC-WorkingWithData\Exam.Models\obj\Debug\TwitterProject.Models.csprojResolveAssemblyReference.cache
+C:\Users\Георги\Desktop\telerik-academy-master\ASP.NET-MVC\ASP.NET-MVC-WorkingWithData\Exam.Models\obj\Debug\Exam.Models.dll
+C:\Users\Георги\Desktop\telerik-academy-master\ASP.NET-MVC\ASP.NET-MVC-WorkingWithData\Exam.Models\obj\Debug\Exam.Models.pdb

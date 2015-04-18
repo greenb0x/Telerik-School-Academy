@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<body>
+   
+   
+    <p>Preceding the text</p>
+    
+    <ol type="I">
+        <li>
+            &emsp;&nbsp;ListItem 1
+            <ol type="a">
+                <li>Nested item 1.1</li>
+                <li>Nested item 1.2</li>
+            </ol>
+        </li>
+        <li>
+            &emsp;&nbsp;ListItem 2
+            <ol type=1>
+                <li>Nested item 2.1</li>
+                <li>
+                    Nested item 2.2
+                    <ul type="circle">
+                        <li>Nested Item 2.2.1</li>
+                        <li>
+                            Nested Item 2.2.2
+                            <ul type = "disc">
+                                <li>Nested Item 2.2.2.1</li>
+                                <li>Nested Item 2.2.2.2</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li>Nested item 2.3</li>
+            </ol>
+        </li>
+        <li>
+            &emsp;&nbsp;ListItem 3
+            <ul type="disc">
+                <li>Nested item 3.1</li>
+                <li>Nested item 3.2</li>
+                <li>Nested item 3.2</li>
+            </ul>
+        </li>
+    </ol>
+    
+    
+    <!--
+    (p>{Preceding the text})+(ol[type="I"]>(li>{&emsp;&nbsp;ListItem 1}>ol[type="a"]>li*2>{Nested item 1.1})+(li>{&emsp;&nbsp;ListItem 2}>ol[type="1"]>(li>{Nested item 2.1})+(li>{Nested item 2.2}>ul[type="circle"]>(li>{Nested Item 2.2.1})+(li>{Nested Item 2.2.2}>ul[type="disc"]>li{Nested Item 2.2.2.1}*2))+(li>{Nested item 2.3}))+(li>{&emsp;&nbsp;ListItem 3}>ul[type="disc"]>li*3>{Nested item 3.1}))        
+    -->
+    
+    
+    
+</body>
+</html>

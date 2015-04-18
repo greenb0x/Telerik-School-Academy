@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>ColorPicker</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    </head>
+    <body>
+        <div id="wrapper">
+            <p>Please test in Chrome!</p>
+            <label for="color-picker">Change background color: </label>
+            <input type="color" id="color-picker" />
+        </div>
+        <script>
+            $("#color-picker").on("change", function () {
+                var newColorValue = $(this).val();
+                $("body").css('backgroundColor', newColorValue);
+            });
+        </script>
+    </body>
+</html>

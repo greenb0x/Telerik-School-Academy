@@ -1,0 +1,23 @@
+﻿@model _03_InformationMVC.Models.Game
+
+@{
+    ViewBag.Title = "GameDetails";
+}
+
+<h2>Details for the game: </h2>
+<div>
+    <p><b>Name:</b> @Model.Name</p>
+    @{
+        string result = String.Empty;
+        if(Model.Price == null)
+        {
+            result = "Free";
+        }
+        else
+        {
+            result = String.Format("{0} lv.",Model.Price);
+        }
+    }
+    <p><b>Price:</b> @result</p>
+</div>
+

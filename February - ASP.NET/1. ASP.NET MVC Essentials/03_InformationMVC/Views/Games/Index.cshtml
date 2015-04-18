@@ -1,0 +1,16 @@
+﻿@using _03_InformationMVC.Models;
+@model IEnumerable<Game>
+
+@{
+    ViewBag.Title = "Games";
+}
+
+<h3>All Games</h3>
+
+@{
+    foreach (var game in Model)
+    {
+        @Html.Partial("_GameInfo", game)
+    }
+}
+

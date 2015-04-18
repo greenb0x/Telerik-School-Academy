@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Task02</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <table>
+        <tr id="headertr">
+            <td>Contact Name</td>
+            <td>City</td>
+            <td>Country</td>
+            <td>Is Promoted</td>
+        </tr>
+        <tr>
+            <td>Maria Anders</td>
+            <td>Berlin</td>
+            <td>
+                <img src="images/germany.png" width="20px" height="15px" />
+                Germany
+            </td>
+            <td><input type="checkbox" disabled="disabled"><br></td>
+        </tr>
+        <tr class="silverBackgr">
+            <td>Ana Trujillo</td>
+            <td>México D.F.</td>
+            <td>
+                <img src="images/mexico.png" width="20px" height="15px" />
+                Mexico
+            </td>
+            <td><input type="checkbox" disabled="disabled"><br></td>
+        </tr>
+        <tr>
+            <td>Antonio Moreno</td>
+            <td>México D.F.</td>
+            <td>
+                <img src="images/mexico.png" width="20px" height="15px" />
+                Mexico
+            </td>
+            <td><input type="checkbox" checked disabled="disabled"><br></td>
+        </tr>
+        <tr class="silverBackgr">
+            <td>Thomas Hardy</td>
+            <td>London</td>
+            <td>
+                <img src="images/uk.jpg" width="20px" height="15px"/>
+                UK
+            </td>
+            <td><input type="checkbox" disabled="disabled"><br></td>
+        </tr>
+    </table>
+
+<!--
+table>tr.headertr>td*5^+(tr>td*2+td>img>{}^^>td>input[type="checkbox" disabled="disabled"])*4            
+-->
+    
+</body>
+</html>

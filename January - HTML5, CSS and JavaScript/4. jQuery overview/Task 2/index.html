@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Insert Elements</title>
+    <style>
+        .box {
+            width: 100px;
+            height: 100px;
+            margin: 10px;
+            background: lime;
+            display: inline-block;
+        }
+
+        .box-active { 
+            background: black; 
+        }
+    </style>
+</head>
+
+<body>
+    <div id="js-main" class="box box-active"></div>
+
+    <div>
+        <button class="js-before">Add before</button>
+        <button class="js-after">Add after</button>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="scripts/script.js"></script>
+</body>
+</html>
